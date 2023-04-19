@@ -1,6 +1,7 @@
 
 Cell Nuclei Segmentation with U-Net
---BY AADYA A. CHINUBHAI
+ 
+ BY AADYA A. CHINUBHAI
 
 Steps to run the app on localhost :
 0) Open CMD
