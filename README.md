@@ -3,6 +3,8 @@
  
  ## BY AADYA A. CHINUBHAI
 
+### Model trained at : https://www.kaggle.com/code/aadyac/u-net-reimplementation-by-aadya-chinubhai
+
 Steps to run the app on localhost :
 > 0) Open CMD
 > 1) mkdir your_dir
