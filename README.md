@@ -1,4 +1,3 @@
-
 # Cell Nuclei Segmentation with U-Net
  
 Model trained at : <https://www.kaggle.com/code/aadyac/u-net-reimplementation-by-aadya-chinubhai>.
