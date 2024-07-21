@@ -1,10 +1,7 @@
 
 # Cell Nuclei Segmentation with U-Net
  
- ###  BY Aadya A. Chinubhai
-
-Model trained at : [https://www.kaggle.com/code/aadyac/u-net-reimplementation-by-aadya-chinubhai]
-
+Model trained at : [here]<https://www.kaggle.com/code/aadyac/u-net-reimplementation-by-aadya-chinubhai>_.
 
 Steps to run the app on localhost :
 ```bash
